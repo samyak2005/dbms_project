@@ -1,7 +1,0 @@
-Manifest-Version: 1.0
-Created-By: Courier Service JDBC Implementation
-Main-Class: CourierServiceDemo
-Implementation-Title: Courier Service JDBC
-Implementation-Version: 1.0
-Implementation-Vendor: Courier Service System
-Description: JDBC implementation for courier service database management 
